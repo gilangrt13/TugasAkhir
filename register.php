@@ -43,7 +43,7 @@ require 'function.php';
 
     <div class="container">
         <div class="row my-5">
-            <div class="col-md-6 text-center login" style="background-image: url('img/bg/memphis-colorful.png');">
+            <div class="col-md-6 text-center login" >
                 <h4 class="fw-bold">Register | Admin</h4>
                 <!-- Ini Error jika tidak bisa regsiter -->
                 <?php if (isset($error)) : ?>
