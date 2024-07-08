@@ -65,7 +65,7 @@ $siswa = query("SELECT * FROM mahasiswa ORDER BY nim DESC");
     <!-- Tampilkan preloader -->
     <div class="preloader">
     <div class="loading">
-    <img src="img/poi.gif" width="80">
+    <img src="img/load.gif" width="80">
     <p>Harap Tunggu...</p>
   </div>
 </div>
